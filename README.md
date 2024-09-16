@@ -2,7 +2,7 @@
     <h1>Dakota Donner</h1>
     <h4>B.S. Computer Science<br/>Cal Poly Humboldt</h4>
     <h4></h4>
-    <img src="https://porac.org/wp-content/uploads/Cal-Poly-Humboldt.jpg" height="100"/> <br/>
+    <img src="https://porac.org/wp-content/uploads/Cal-Poly-Humboldt.jpg" height="500"/> <br/>
     <hr/>
   </div>
 
