@@ -2,7 +2,7 @@
     <h1>Dakota Donner</h1>
     <h4>B.S. Computer Science<br/>Cal Poly Humboldt</h4>
     <h4></h4>
-    <img src="https://i.imgur.com/ewi22JE.png" height="250"/> <br/>
+    <img src="https://raw.githubusercontent.com/DrFoxPlague/DrFoxPlague/main/cal_poly_logo_nobackground.png" height="250"/> <br/>
     <hr/>
   </div>
 
